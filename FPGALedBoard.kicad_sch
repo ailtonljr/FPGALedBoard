@@ -1553,14 +1553,14 @@
     (path "/c5c591f1-c0e9-4947-baae-60830dcc6c65"
       (reference "#PWR0101") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/d50d3b86-fcaf-43db-bc33-ecddfe89abe6"
-      (reference "#PWR0102") (unit 1) (value "+3.3V") (footprint "")
+    (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/4713b701-0d77-40e8-8184-3a11f9df2324"
+      (reference "#PWR0102") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/f57cfc1a-e27e-4b62-b5f3-07343adf3e48"
-      (reference "#PWR0103") (unit 1) (value "+3.3V") (footprint "")
+    (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/8162b63c-7c13-44e4-ab77-e1c734beff59"
+      (reference "#PWR0103") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/4ad32978-fd37-4127-b24e-4f7d5de62c9f"
-      (reference "#PWR0104") (unit 1) (value "+3.3V") (footprint "")
+    (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/3cad4871-f357-423c-bb38-142f118d87a8"
+      (reference "#PWR0104") (unit 1) (value "+5V") (footprint "")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/16838b6e-c4b6-4f15-a8de-f4a84662c174"
       (reference "#PWR0105") (unit 1) (value "+5V") (footprint "")
@@ -1629,196 +1629,196 @@
       (reference "J1") (unit 1) (value "Conn_02x20_Odd_Even") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/18bc2efc-697a-44b6-9588-c4b352fd1345"
-      (reference "R1") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R1") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/f6c32a0b-23a3-4f21-9812-dbd61685b057"
-      (reference "R2") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R2") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/ab0b0d01-0896-41a1-b76d-5022b2f42d2e"
-      (reference "R3") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R3") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/f6310aa0-783a-4192-83dd-8eb6edf31fcb"
-      (reference "R4") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R4") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/96874965-5ba7-406a-b58c-d48e23a4647a"
-      (reference "R5") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R5") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/d78d4a90-36b8-4431-946a-190c860b94d3"
-      (reference "R6") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R6") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/8ea598f4-9884-4ab4-babc-d4ebf733b682"
-      (reference "R7") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R7") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/48a74fda-262e-44f5-8230-64904578ae97"
-      (reference "R8") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R8") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/5574a4d5-d803-44fc-b2e3-ddd2854e15b8"
-      (reference "R9") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R9") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/9e4f2798-ec8e-4bc0-af82-49ef88a00ac2"
-      (reference "R10") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R10") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/d1ff0b72-2bea-4044-ab21-5375a4ceaa91"
-      (reference "R11") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R11") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/1554cc5d-09b6-498c-8d5f-359a799a678f"
-      (reference "R12") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R12") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/a013984a-e739-4846-9286-f86e9645fdf0"
-      (reference "R13") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R13") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/f3ff6b01-830d-4279-9636-bd139cec88f4"
-      (reference "R14") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R14") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/a206eec9-49f0-4fa2-9211-3104060fbb98"
-      (reference "R15") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R15") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/0ebe93dd-1761-47a4-a05e-3173b352133a"
-      (reference "R16") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R16") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/cd9491bf-4452-4049-b3e1-fa013abf6113"
-      (reference "R17") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R17") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/95a82678-e273-4770-8681-4b70e380d064"
-      (reference "R18") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R18") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/a793f6dd-dc74-482f-a300-bdb172f13ff4"
-      (reference "R19") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R19") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/df0eae2b-03f6-414c-a377-10639ccb21cc"
-      (reference "R20") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R20") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/d8eb24d0-85aa-4a33-b87e-5e33e9c24006"
-      (reference "R21") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R21") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/7aaf8818-3f26-4127-836a-6f6a402065b3"
-      (reference "R22") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R22") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/7edee8cf-94ff-4eac-b32a-e134165b4a93"
-      (reference "R23") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R23") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/b9dde299-70c6-4ec5-ad8b-0272c70e06ba"
-      (reference "R24") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R24") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/68cbed09-447d-493c-b934-f2124ecd9b68"
-      (reference "R25") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R25") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/9a0babfa-41bb-477b-a180-0fddd2ce5f72"
-      (reference "R26") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R26") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/10eeb76c-a98e-46dc-b17d-b0fe085f9675"
-      (reference "R27") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R27") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/68d07d85-e48e-481f-9cd4-494f6f0a3155"
-      (reference "R28") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R28") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/301a636d-f4a0-4cd1-b0bc-28dd5f20db23"
-      (reference "R29") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R29") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/16a56e9b-5d88-435c-a26d-f7ccd4fb8aeb"
-      (reference "R30") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R30") (unit 1) (value "120") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/528745a9-de1e-42ec-8464-4766141ab7aa"
-      (reference "U1") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U1") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/96b4599b-613c-4539-b99d-4044dd304bff"
-      (reference "U1") (unit 2) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U1") (unit 2) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/0cb394f3-8c3f-47c4-8005-84457d567b17"
-      (reference "U1") (unit 3) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U1") (unit 3) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/933a6480-1827-42e8-b19e-55d6e0fa0f00"
-      (reference "U1") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U1") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/1429d6cf-f67b-4ad8-9320-fb536a23ce21"
-      (reference "U1") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U1") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/f9e49ef7-3b20-4324-996c-7a545b3ab8c2"
-      (reference "U1") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U1") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/657fcf8a-ddd2-4c31-8782-242b6881e827"
-      (reference "U1") (unit 7) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U1") (unit 7) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/a956d9b4-ac97-4486-a85c-6da80c182a29"
-      (reference "U2") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U2") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/4ffec9db-6049-4691-9b92-f6cc8448d303"
-      (reference "U2") (unit 2) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U2") (unit 2) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/2f62616d-d408-44dd-b838-253ee17ba8e0"
-      (reference "U2") (unit 3) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U2") (unit 3) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/b89c5853-ddae-4349-8558-6dcf34622a5b"
-      (reference "U2") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U2") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/8b24b23a-1cab-41eb-b15b-248f3591f4b4"
-      (reference "U2") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U2") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/d4e77efc-3040-4962-986e-846756bf3632"
-      (reference "U2") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U2") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/5e47ad16-f2bc-4e49-813f-8cf673178e22"
-      (reference "U2") (unit 7) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U2") (unit 7) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/61aa634b-2170-4c6b-9b6b-063e7c139296"
-      (reference "U3") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U3") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/4a588643-7e17-4596-be2b-33f460a89c89"
-      (reference "U3") (unit 2) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U3") (unit 2) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/9ffc9bf5-b6ee-48a5-a0f1-f7cd95e4a960"
-      (reference "U3") (unit 3) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U3") (unit 3) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/e852c60a-73ba-434e-9a19-47c1b20cd3ae"
-      (reference "U3") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U3") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/94419dcd-8a47-4346-bad9-959b3a1cf43c"
-      (reference "U3") (unit 7) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U3") (unit 7) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/a412076c-8fb8-4cdf-aa86-935ef0f82a3a"
-      (reference "U4") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U4") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/8bdc600f-cd7b-47a6-9851-523e10e74542"
-      (reference "U4") (unit 2) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U4") (unit 2) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/7d26e428-ae74-4c5c-9e9a-e2b39c5635fa"
-      (reference "U4") (unit 3) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U4") (unit 3) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/22a32758-ab33-42da-875b-94e957a73fd5"
-      (reference "U4") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U4") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/8f177dae-7048-44cb-aed5-9ee2ed31b985"
-      (reference "U4") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U4") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/e32c4ea7-4f7f-485c-bc9d-52c3c4186a99"
-      (reference "U4") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U4") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/cfc3b2b4-1d97-4f46-b5dc-f14c71e1a6a2"
-      (reference "U5") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U5") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/a3e71096-cef8-4a14-b7fd-8446b92e85a1"
-      (reference "U5") (unit 2) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U5") (unit 2) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/7c6f66ab-b63e-422a-aa68-6b01660f007f"
-      (reference "U5") (unit 3) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U5") (unit 3) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/82c20959-d0b7-428b-9615-8c7069bdf0a5"
-      (reference "U5") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U5") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/9775dbd4-51ad-4918-bcc6-fc67cc365ee7"
-      (reference "U5") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U5") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/d05b7b76-e8d1-4210-8cd0-720f16e13d24"
-      (reference "U5") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U5") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/0256fd15-c8e3-42ff-8a02-4ab7ec7ac551"
       (reference "U6") (unit 1) (value "D148K") (footprint "Display_7Segment:D1X8K")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/f1165d29-5632-40a1-b10d-a3067f0b2b0a"
-      (reference "U7") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U7") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/c888f29d-e025-449f-a4a4-edeed2746fde"
-      (reference "U7") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+      (reference "U7") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/cc5a93cc-9281-4348-a8ca-ccf4c4a00ed9"
       (reference "U8") (unit 1) (value "D148K") (footprint "Display_7Segment:D1X8K")
