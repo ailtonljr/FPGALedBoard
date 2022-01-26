@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "FPGA LED Output Board - Main")
+    (date "2022-01-26")
+    (rev "1")
+    (company "IFTM - Campus Ituiutaba")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_02x20_Odd_Even" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 1.27 25.4 0)
@@ -1565,6 +1572,33 @@
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/16838b6e-c4b6-4f15-a8de-f4a84662c174"
       (reference "#PWR0105") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/20d3631c-a610-485d-a77f-480404a55a4f"
+      (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/147d8636-f8cb-4d9a-9fe2-4658fd953f44"
+      (reference "#PWR0107") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/99e75819-1ee6-4118-be75-84e1bafd18ae"
+      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/51f6e505-70fe-4cfa-8e51-aa721df03c0b"
+      (reference "#PWR0109") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/b8bb4a94-4aef-4d3f-bdd0-866eb8c04d91"
+      (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+    )
+    (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/dadc5b33-c8b6-468e-bb36-9ffa3f059f37"
+      (reference "C2") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+    )
+    (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/4dff0a8e-15b6-4ad4-9af2-e1592dfea4bc"
+      (reference "C3") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+    )
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/ada4f1f9-a877-4a31-ac0e-674903a1c441"
+      (reference "C4") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+    )
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/fee69415-3b1b-467a-9596-a7af933deba2"
+      (reference "C5") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+    )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/bafb552e-736d-4d46-943b-7a792067c0dd"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")
     )
@@ -1772,6 +1806,12 @@
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/e852c60a-73ba-434e-9a19-47c1b20cd3ae"
       (reference "U3") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/8f177dae-7048-44cb-aed5-9ee2ed31b985"
+      (reference "U3") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
+    )
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/e32c4ea7-4f7f-485c-bc9d-52c3c4186a99"
+      (reference "U3") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
+    )
     (path "/b1f06ebd-9631-4b3b-9237-63ceeafca95e/94419dcd-8a47-4346-bad9-959b3a1cf43c"
       (reference "U3") (unit 7) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
@@ -1787,11 +1827,14 @@
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/22a32758-ab33-42da-875b-94e957a73fd5"
       (reference "U4") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
-    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/8f177dae-7048-44cb-aed5-9ee2ed31b985"
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/9775dbd4-51ad-4918-bcc6-fc67cc365ee7"
       (reference "U4") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
-    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/e32c4ea7-4f7f-485c-bc9d-52c3c4186a99"
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/d05b7b76-e8d1-4210-8cd0-720f16e13d24"
       (reference "U4") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
+    )
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/f01717ce-5ea2-40bb-b345-2f1eb154ce2d"
+      (reference "U4") (unit 7) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/cfc3b2b4-1d97-4f46-b5dc-f14c71e1a6a2"
       (reference "U5") (unit 1) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
@@ -1805,20 +1848,17 @@
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/82c20959-d0b7-428b-9615-8c7069bdf0a5"
       (reference "U5") (unit 4) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
-    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/9775dbd4-51ad-4918-bcc6-fc67cc365ee7"
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/f1165d29-5632-40a1-b10d-a3067f0b2b0a"
       (reference "U5") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
-    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/d05b7b76-e8d1-4210-8cd0-720f16e13d24"
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/c888f29d-e025-449f-a4a4-edeed2746fde"
       (reference "U5") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
+    )
+    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/aebbe4a9-8276-47f3-ab49-db454bafd386"
+      (reference "U5") (unit 7) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/0256fd15-c8e3-42ff-8a02-4ab7ec7ac551"
       (reference "U6") (unit 1) (value "D148K") (footprint "Display_7Segment:D1X8K")
-    )
-    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/f1165d29-5632-40a1-b10d-a3067f0b2b0a"
-      (reference "U7") (unit 5) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
-    )
-    (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/c888f29d-e025-449f-a4a4-edeed2746fde"
-      (reference "U7") (unit 6) (value "74AHC04") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/ebb9e051-9d57-48fe-a44a-4edf58ab7acf/cc5a93cc-9281-4348-a8ca-ccf4c4a00ed9"
       (reference "U8") (unit 1) (value "D148K") (footprint "Display_7Segment:D1X8K")
