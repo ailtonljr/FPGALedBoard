@@ -7,7 +7,7 @@
   (title_block
     (title "FPGA LED Output Board - 7 Segment Display")
     (date "2022-01-26")
-    (rev "1")
+    (rev "1.0")
     (company "IFTM - Campus Ituiutaba")
   )
 
