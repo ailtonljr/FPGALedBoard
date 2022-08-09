@@ -36,3 +36,7 @@ Associação dos pinos da placa de saída com o FPGA:
 |Led B1	        | PIN_E11 |
 |Led B0	        | PIN_C11 |
 
+
+Observações:
+Os pinos dos Leds não estão invertidos: Ao colocar 1 no pino o Led acende.
+
